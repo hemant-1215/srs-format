@@ -1,0 +1,13 @@
+Srs(software requirement specification)
+Introduction:
+Here we are creating a website to manage library and the following are the functional and non functional requirements
+Purpose:
+To build a website that is able to  manage the library flawlessly 
+Functional requirements:
+Login:login page should be available
+Books info:info about books should be available
+Non function requirements:
+Security: it should have a good security system
+Database:it should have a large database
+overview
+it should have all the above features and shold not have any issues in managing th library
